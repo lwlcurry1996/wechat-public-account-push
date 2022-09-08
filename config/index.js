@@ -43,14 +43,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "http://112.74.183.8:19008/"
     }, 
-//     {
-//       name: "老婆1", 
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       openUrl: "https://wangxinleo.cn"
-//     }, 
+    {
+      name: "蒋先生", 
+      id: "oixbL53PoJ8mwBhUALDMY1lH025o",
+      useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
+      province: "江苏",
+      city: "无锡",
+      openUrl: "http://112.74.183.8:19008/"
+    }, 
 //     {
 //       name: "老婆2",
 //       id: "",
