@@ -67,6 +67,22 @@ export const config = {
       city: "杭州",
       openUrl: "http://112.74.183.8:19008/"
     }, 
+    {
+      name: "陈姐夫人", 
+      id: "oixbL5_8KFG1omR2bDX2QN_YN6DE",
+      useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
+      province: "甘肃",
+      city: "陇南",
+      openUrl: "http://112.74.183.8:19008/"
+    }, 
+    {
+      name: "🥀 旎～", 
+      id: "oixbL57T93oBbpY-ar7dhwOj4-Bo",
+      useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
+      province: "甘肃",
+      city: "陇南",
+      openUrl: "http://112.74.183.8:19008/"
+    },
   ],
 
   /**
