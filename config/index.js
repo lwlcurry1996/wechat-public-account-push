@@ -59,14 +59,14 @@ export const config = {
       city: "无锡",
       openUrl: "http://112.74.183.8:19008/"
     }, 
-//     {
-//       name: "老婆3", 
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       openUrl: "https://wangxinleo.cn"
-//     }, 
+    {
+      name: "刘亚比", 
+      id: "oixbL5_e4fLhhkNt7hk2wORDHSNI",
+      useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
+      province: "浙江",
+      city: "杭州",
+      openUrl: "http://112.74.183.8:19008/"
+    }, 
   ],
 
   /**
