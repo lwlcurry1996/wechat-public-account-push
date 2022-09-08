@@ -56,7 +56,7 @@ export const config = {
       id: "oixbL59Tjqvj13BFTi7stY5azctU",
       useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
       province: "江苏",
-      city: "芜湖",
+      city: "无锡",
       openUrl: "http://112.74.183.8:19008/"
     }, 
 //     {
