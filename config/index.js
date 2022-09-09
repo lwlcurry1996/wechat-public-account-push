@@ -79,8 +79,24 @@ export const config = {
       name: "🥀 旎～", 
       id: "oixbL57T93oBbpY-ar7dhwOj4-Bo",
       useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
+      province: "陕西",
+      city: "西安",
+      openUrl: "http://112.74.183.8:19008/"
+    },
+    {
+      name: "金器", 
+      id: "oixbL51pQu734tbVjJn9PPKA4NGw",
+      useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
+      province: "浙江",
+      city: "杭州",
+      openUrl: "http://112.74.183.8:19008/"
+    },
+    {
+      name: "静静", 
+      id: "oixbL5wPgIRH9ncyEV58-ClDnQg0",
+      useTemplateId: "_fgHMpvuxk53NoMCwtRkhlNgIaEKEXNxY1bFoV8_ANo",
       province: "甘肃",
-      city: "陇南",
+      city: "兰州",
       openUrl: "http://112.74.183.8:19008/"
     },
   ],
